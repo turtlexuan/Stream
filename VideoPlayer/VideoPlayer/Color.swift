@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import DynamicColor
+import UIKit
 
 struct Color {
     
