@@ -6,6 +6,7 @@ target 'VideoPlayer' do
   use_frameworks!
 
 pod 'DynamicColor'
+pod 'IQKeyboardManagerSwift'
 
   # Pods for VideoPlayer
 
