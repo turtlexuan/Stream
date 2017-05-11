@@ -1,0 +1,15 @@
+PODS:
+  - DynamicColor (3.3)
+  - IQKeyboardManagerSwift (4.0.9)
+
+DEPENDENCIES:
+  - DynamicColor
+  - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  DynamicColor: 3cdaa1e01c16e93ba744e0630f768373e0fc7a7d
+  IQKeyboardManagerSwift: 2eefe6c429b86aa08bfbc1b5c891164d754adf91
+
+PODFILE CHECKSUM: 8da425f8afe747ea081341bbf8d5feff45a8005e
+
+COCOAPODS: 1.2.1
