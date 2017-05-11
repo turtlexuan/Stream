@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         let viewController = ViewController()
         
-        viewController.view.backgroundColor = .blue
+        viewController.view.backgroundColor = UIColor(red: 8/255.0, green: 20/255.0, blue: 34/255.0, alpha: 1)
         
         self.window?.rootViewController = viewController
         self.window?.makeKeyAndVisible()
